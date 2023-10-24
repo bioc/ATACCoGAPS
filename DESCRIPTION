@@ -1,6 +1,6 @@
 Package: ATACCoGAPS
 Title: Analysis Tools for scATACseq Data with CoGAPS
-Version: 1.4.0
+Version: 1.5.0
 Authors@R: 
     person(given = "Rossin",
            family = "Erbe",
