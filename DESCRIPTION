@@ -1,6 +1,6 @@
 Package: ATACCoGAPS
 Title: Analysis Tools for scATACseq Data with CoGAPS
-Version: 1.7.0
+Version: 1.7.1
 Authors@R: 
     person(given = "Rossin",
            family = "Erbe",
@@ -43,3 +43,4 @@ Suggests:
     viridis
 BugReports: https://github.com/FertigLab/ATACCoGAPS/issues
 VignetteBuilder: knitr
+PackageStatus: Deprecated
